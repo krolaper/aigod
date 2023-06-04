@@ -5,16 +5,16 @@
 	[![Docs: wiki](https://img.shields.io/badge/docs-wiki-yellow)](https://codeberg.org/krolaper/aigod/wiki)
 	<a href="http://destream.net/live/krolaper/donate"><img src="https://destream.net/template/img/tip-buttons/35.png" alt="donate" width="60" /></a>
 	
-	# AIGod
+# AIGod
 	
-	![Logo](https://codeberg.org/krolaper/aigod/raw/branch/main/aigod.ico)
+![Logo](https://codeberg.org/krolaper/aigod/raw/branch/main/aigod.ico)
 	
-	**AIGod**  - program to recognize objects in images, videos, webcams. The program has a graphical menu to facilitate users' use.
+**AIGod**  - program to recognize objects in images, videos, webcams. The program has a graphical menu to facilitate users' use.
 	
-	![aigod](https://codeberg.org/krolaper/aigod/raw/commit/2c8a20ba1ff378f8dea08f1a5bfcaadc65094055/.codeberg/AIGod-reklam.jpg)
+![aigod](https://codeberg.org/krolaper/aigod/raw/commit/2c8a20ba1ff378f8dea08f1a5bfcaadc65094055/.codeberg/AIGod-reklam.jpg)
 	
-	## **Program features:**
-	<ul>
+## **Program features:**
+<ul>
 	   <li> - the choice of a specific model, which is trained to identify certain objects of a given topic. Each model defines objects fairly precisely 70-80%, but I will improve the discovery of objects to 100% accuracy</li>
 	   <li> - select certain objects from all in the model for the recognition task</li>
 	   <li> - display the result and automatically save it to a folder</li>
@@ -26,12 +26,12 @@
 	   <li> - track the movement of objects</li>
 	   <li> - sound notification about the detection of objects</li>
 	   <li> - description of Wikipedia objects found</li>
-	</ul>
+</ul>
 	
-	![Result](https://codeberg.org/krolaper/aigod/raw/branch/main/test.jpeg)
+![Result](https://codeberg.org/krolaper/aigod/raw/branch/main/test.jpeg)
 	
-	## **Expansion models:**
-	<ul>
+## **Expansion models:**
+<ul>
 	    <li>Transport</li>
 	    <li>Household objects</li>
 	    <li>People</li>
@@ -48,28 +48,28 @@
 	    <li>Colors</li>
 	    <li>Movement of objects</li>
 	    <li>Other</li>
-	</ul>
+</ul>
 	
-	## **Donate:**
-	Help in the development of the project. If you have another currency - let me know.
-	<ul>BTC - bc1qc8pst83dwpl3tpwkvy37vgynp8ergyzc8dqsys</ul>
-	<ul>ETH - 0xBf6eD5c126674c81c2c0Cde785B8536Ed0A8AF79</ul>
-	[![destream](https://destream.net/template/img/tip-buttons/35.png)](https://destream.net/live/krolaper/donate)
+## **Donate:**
+Help in the development of the project. If you have another currency - let me know.
+<ul>BTC - bc1qc8pst83dwpl3tpwkvy37vgynp8ergyzc8dqsys</ul>
+<ul>ETH - 0xBf6eD5c126674c81c2c0Cde785B8536Ed0A8AF79</ul>
+[![destream](https://destream.net/template/img/tip-buttons/35.png)](https://destream.net/live/krolaper/donate)
 	
-	## **FAQ:**
-	**[Documetation](https://codeberg.org/krolaper/aigod/wiki/Software-usage-documentation)**
+## **FAQ:**
+**[Documetation](https://codeberg.org/krolaper/aigod/wiki/Software-usage-documentation)**
 	
-	**Artificial intelligence of recognition:**
-	    The program uses the Yolov5 recognition model. The program is written in Python.
+**Artificial intelligence of recognition:**
+The program uses the Yolov5 recognition model. The program is written in Python.
 	
-	**How fast is object recognition, how many resources are required:**
-	    The program requires a lot of computer resources for fast work. Object recognition takes place instantly.
+**How fast is object recognition, how many resources are required:**
+The program requires a lot of computer resources for fast work. Object recognition takes place instantly.
 	
-	**Project status:**
-	    The project may be slow, but I will always try to answer questions.
+**Project status:**
+The project may be slow, but I will always try to answer questions.
 	
-	## **[Privacy Policy](https://codeberg.org/krolaper/aigod/src/branch/main/LICENSE)**
-	We don't collect or share your personal info.
-	We additionally use the GNU Coding Standard, see https://gnu.org/prep/standards
+## **[Privacy Policy](https://codeberg.org/krolaper/aigod/src/branch/main/LICENSE)**
+We don't collect or share your personal info.
+We additionally use the GNU Coding Standard, see https://gnu.org/prep/standards
 	
-	<a href="https://codeberg.org/krolaper/aigod/src/branch/main/LICENSE"> <img src="https://gnu.org/graphics/gplv3-88x31.png"> </a>
+<a href="https://codeberg.org/krolaper/aigod/src/branch/main/LICENSE"> <img src="https://gnu.org/graphics/gplv3-88x31.png"> </a>
