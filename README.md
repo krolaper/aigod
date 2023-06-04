@@ -54,7 +54,7 @@
 Help in the development of the project. If you have another currency - let me know.
 <ul>BTC - bc1qc8pst83dwpl3tpwkvy37vgynp8ergyzc8dqsys</ul>
 <ul>ETH - 0xBf6eD5c126674c81c2c0Cde785B8536Ed0A8AF79</ul>
-[![destream](https://destream.net/template/img/tip-buttons/35.png)](https://destream.net/live/krolaper/donate)
+[![destream](https://destream.net/bundles/pages/assets/43d2e394a749e8ab6cb4.png)](https://destream.net/live/krolaper/donate)
 	
 ## **FAQ:**
 **[Documetation](https://codeberg.org/krolaper/aigod/wiki/Software-usage-documentation)**
