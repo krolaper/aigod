@@ -20,12 +20,16 @@
 	   <li> - display the result and automatically save it to a folder</li>
 	   <li> - selection of the language of the program</li>
 	   <li> - the ability to check the program update</li>
-	   <li> - notification of the object found while working in the reference mode (street camera)</li>
 	   <li> - comparison of people’s faces in the selected database</li>
 	   <li> - object counting</li>
 	   <li> - track the movement of objects</li>
 	   <li> - sound notification about the detection of objects</li>
 	   <li> - description of Wikipedia objects found</li>
+	   <li> - the ability to select a program to view the result</li>
+	   <li> -the ability to choose the device through which the analysis will be carried out</li>
+	   <li> - recognition history</li>
+	   <li> - choice of visual design</li>
+	   <li> - and much more</li>
 </ul>
 	
 ![Result](https://codeberg.org/krolaper/aigod/raw/branch/main/test.jpeg)
