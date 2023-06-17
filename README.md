@@ -1,4 +1,4 @@
-# **[AIGod project](https://codeberg.org/krolaper/aigod/)**
+# Source code and realases: **[AIGod project](https://codeberg.org/krolaper/aigod/)**
 
 [![License: GPL3+](https://img.shields.io/badge/License-GPL3+-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 	[![Downloads: v3.2](https://img.shields.io/badge/downloads-v3.2-br)](https://codeberg.org/krolaper/aigod/releases/tag/aigod_v3-2)
