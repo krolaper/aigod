@@ -60,6 +60,7 @@ Help in the development of the project. If you have another currency - let me kn
 	<ul>ETH (Ethereum) - 0xBf6eD5c126674c81c2c0Cde785B8536Ed0A8AF79</ul>
 	<ul>USDT (Tether ERC20) - 0xBf6eD5c126674c81c2c0Cde785B8536Ed0A8AF79</ul>
 	<ul>BCH (Bitcoin Cash TYPE145) - bitcoincash:qztxsgu5g5nt6c8rpvexpxmt8qtqmwyne50wwt4qmn</ul>
+<p>Donate bank cards:</p>
 
 [![destream](https://destream.net/bundles/pages/assets/43d2e394a749e8ab6cb4.png)](https://destream.net/live/krolaper/donate)
 	
