@@ -51,7 +51,6 @@
     <li>Food</li>
     <li>Closes</li>
     <li>Art</li>
-    <li>Military</li>
     <li>Smoke (Fire)</li>
     <li>Car license plates</li>
     <li>Deepfake and other</li>
